@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Osman.<br>
-        Currently learning computer science and has interest in ML/DL and web dev.<br>
+        I am a sofware engineer / python developer and has interest in ML/DL and web dev.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/osman-yasser-44099520a">

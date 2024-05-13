@@ -17,6 +17,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/osman-yasser)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/osman-yasser)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/osman-yasser)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/osman-yasser)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/osman-yasser)
@@ -30,6 +31,8 @@
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/osman-yasser)
+[![Frappe](https://img.shields.io/badge/frappe-black?style=for-the-badge&logo=frappe)](https://github.com/osman-yasser)
+[![ERPNext](https://img.shields.io/badge/erpnext-black?style=for-the-badge&logo=erpnext)](https://github.com/osman-yasser)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/osman-yasser)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/osman-yasser)
 
